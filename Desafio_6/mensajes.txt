@@ -1,0 +1,110 @@
+[
+	{
+		"author": {
+			"email": "rrcamel@hotmail.com",
+			"nombre": "Rafael Ricardo",
+			"apellido": "Piotti",
+			"edad": "44",
+			"alias": "Camel",
+			"avatar": ""
+		},
+		"text": "hola buenas tarde",
+		"fyh": "11/11/2022, 19:16:35"
+	},
+	{
+		"author": {
+			"email": "rrcamel@hotmail.com",
+			"nombre": "Rafael Ricardo",
+			"apellido": "Piotti",
+			"edad": "44",
+			"alias": "Camel",
+			"avatar": ""
+		},
+		"text": "Esta abireto?",
+		"fyh": "11/11/2022, 19:16:45"
+	},
+	{
+		"author": {
+			"email": "rafaelpiotti@gmail.com",
+			"nombre": "rafa",
+			"apellido": "PIO",
+			"edad": "23",
+			"alias": "Perro",
+			"avatar": ""
+		},
+		"text": "holis",
+		"fyh": "11/11/2022, 19:18:38"
+	},
+	{
+		"author": {
+			"email": "rafaelpiotti@gmail.com",
+			"nombre": "rafa",
+			"apellido": "PIO",
+			"edad": "23",
+			"alias": "Perro",
+			"avatar": ""
+		},
+		"text": "se puede pedir algo?",
+		"fyh": "11/11/2022, 19:18:50"
+	},
+	{
+		"author": {
+			"email": "hamburg@gmail.com",
+			"nombre": "HG",
+			"apellido": "central",
+			"edad": "10",
+			"alias": "Hamb",
+			"avatar": ""
+		},
+		"text": "hola, buenas noches Camel",
+		"fyh": "11/11/2022, 19:19:43"
+	},
+	{
+		"author": {
+			"email": "hamburg@gmail.com",
+			"nombre": "HG",
+			"apellido": "central",
+			"edad": "10",
+			"alias": "Hamb",
+			"avatar": ""
+		},
+		"text": "Hola buenas noches Perro",
+		"fyh": "11/11/2022, 19:19:51"
+	},
+	{
+		"author": {
+			"email": "rrcamel@hotmail.com",
+			"nombre": "Rafael Ricardo",
+			"apellido": "Piotti",
+			"edad": "34",
+			"alias": "camel",
+			"avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrgMJvJoH4CErHX9WEe53Z7oygVIN2REh3YedH6gL&s"
+		},
+		"text": "hola ",
+		"fyh": "17/11/2022, 12:30:04"
+	},
+	{
+		"author": {
+			"email": "rrcamel@hotmail.com",
+			"nombre": "Rafael Ricardo",
+			"apellido": "Piotti",
+			"edad": "34",
+			"alias": "kmel",
+			"avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrgMJvJoH4CErHX9WEe53Z7oygVIN2REh3YedH6gL&s"
+		},
+		"text": "hola",
+		"fyh": "17/11/2022, 12:35:08"
+	},
+	{
+		"author": {
+			"email": "rrcamel@hotmail.com",
+			"nombre": "Rafael Ricardo",
+			"apellido": "Piotti",
+			"edad": "34",
+			"alias": "kamel",
+			"avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrgMJvJoH4CErHX9WEe53Z7oygVIN2REh3YedH6gL&s"
+		},
+		"text": "hola",
+		"fyh": "17/11/2022, 12:40:34"
+	}
+]
